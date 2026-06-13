@@ -17,14 +17,20 @@
 
 ## Tecnologie utilizzate
 -Java
+
 -Programmazione orientata agli oggetti (OOP)
+
 -HashMap
+
 -Gestione delle eccezioni (Exception handling)
+
 -IDE Eclipse
 
 ## Come avviare l'applicazione
 -Clona la repository.
+
 -Apri il progetto in Eclipse o in un altro IDE Java.
+
 -Esegui il file Main.java.
 -Segui le istruzioni mostrate nella console.
 
