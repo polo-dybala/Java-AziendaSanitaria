@@ -32,8 +32,10 @@
 -Apri il progetto in Eclipse o in un altro IDE Java.
 
 -Esegui il file Main.java.
+
 -Segui le istruzioni mostrate nella console.
 
 ## Sviluppi futuri / Miglioramenti
 -Aggiungere test automatizzati con JUnit
+
 -Salvare i dati su un file o su un database reale
