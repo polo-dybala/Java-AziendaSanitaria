@@ -1,11 +1,18 @@
 ## Funzionalità
 -Aggiunta di medici e pazienti
+
 -Archiviazione dei dati tramite collezioni HashMap
+
 -Ricerca dei medici tramite codice identificativo
+
 -Ricerca dei medici disponibili in base al loro giorno di riposo
+
 -Ricerca dei pazienti
+
 -Assegnazione dei medici ai pazienti
+
 -Riassegnazione dei pazienti in caso di necessità
+
 -Validazione dell'input utente e gestione degli errori
 
 ## Tecnologie utilizzate
