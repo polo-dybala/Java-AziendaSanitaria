@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+bin/
+
+# Eclipse configuration
+.settings/
+.classpath
+.project
+
+# Temporary and system files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
